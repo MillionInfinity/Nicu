@@ -343,3 +343,5 @@
 {"level":"info","message":"Connected to mongodb://localhost/ventilator...","timestamp":"2020-05-17T14:11:18.407Z"}
 {"level":"info","message":"Listening on port 3900...","timestamp":"2020-05-17T14:12:23.231Z"}
 {"level":"info","message":"Connected to mongodb://localhost/ventilator...","timestamp":"2020-05-17T14:12:25.273Z"}
+{"level":"info","message":"Listening on port 3900...","timestamp":"2020-05-17T16:15:06.989Z"}
+{"level":"info","message":"Connected to mongodb://localhost/ventilator...","timestamp":"2020-05-17T16:15:09.017Z"}
